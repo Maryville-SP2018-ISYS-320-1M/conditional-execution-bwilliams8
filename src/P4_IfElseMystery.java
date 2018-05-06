@@ -7,17 +7,18 @@
 /*
  Your expected results after the input is provided:
  
- 1.
- 2.
- 3. 
- 4.
-  
+ 1. nil
+ 2. nil
+ 3. 3 4
+ 4. 29 30
+  All Correct.
  */
 public class P4_IfElseMystery {
 
 	public static void main(String[] args) {
 		// Put your call to ifElseMyster2 here
 
+		ifElseMystery(10, 2);
 	}
 	
     public static void ifElseMystery(int a, int b) {
